@@ -36,8 +36,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Piannz/Piannz/output/snake.svg" alt="Snake animation" />
-
 ###
