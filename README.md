@@ -1,7 +1,6 @@
 <h2 align="left">Hi 👋! My name is pian and I'm a student, from central java</h2>
 
 ###
-###
 
 
 <div align="left">
